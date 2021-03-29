@@ -44,7 +44,7 @@ What context do they work within?- what cultural/historical/society or technolog
 </ul>
 
 
-
+<img src="image4.jpg" alt="Art and architecture:their link through the years"/>
 
 
 
