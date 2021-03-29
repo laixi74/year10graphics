@@ -7,6 +7,9 @@
 <Header />
 <Nav />
 
+<img src="image12.jpg" alt="Drawing of a large Cabin Design"/>
+<img src="image2.png" alt="Cabin design example" /> 
+
 
 <Footer />
 
