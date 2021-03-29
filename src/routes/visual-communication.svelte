@@ -6,4 +6,68 @@
 
 <Header />
 <Nav />
+<main>
+    <h3>Assessment Tasks</h3>
+
+    <p>
+        1.Perspective
+        Use the box examples on this sheet and create on your own page.
+         Start by putting in a line for the horizon and the VP’s then the
+          front side of each box. Then take the sides back to the vanishing
+           points. If you get stuck draw the example. Place boxes in all differ
+           ent locations and make them different sizes.
+    </p>
+
+    <p>
+        2.Perspective Bird Houses
+Draw the bird houses. Add shadows and textures
+    </p>
+
+    <p>
+        3. Scale
+explain or work out the following:
+<ul>
+    <li>What does 1:2 mean?</li>
+    <li>Using 1:1 what size would you draw 100mm at?</li>
+    <li>Using 1:20 what size would you draw 100mm at? </li>
+    <li>Using 1:50 what size would you draw 100mm at?</li>
+    <li>How do you work out scale? Explain this</li>
+    <li>What unit of measurement must all dimensions be in?</li>
+
+</ul>
+    </p>
+
+    <p>
+        4. Architectural Symbols
+
+    Draw up a plan view of a room that will show the following. 
+    Label each neatly in 3mm caps writing. You can adapt the drawing be
+    low or do your own. Think about colour and texture.
+
+    <ul>
+        <li>Double doors</li>
+        <li>3 windows</li>
+        <li>Walls</li>
+        <li>A sink, a toilet and bath</li>
+        <li>Seating</li>
+        <li>Add a north symbol used for architecture</li>
+        <li>Tiles</li>
+        <li>Wooden flooring</li>
+    </ul>
+    </p>
+
+    <p>
+        5. Architectural Plans, & Elevations
+
+        Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.
+
+        <ul>
+            <li>You will be drawing at scale 1:50 for the elevations and floor plan.</li>
+            <li>Add the wall thickness (walls are 100mm so will be drawn as 2mm thick )</li>
+            <li>Use the diagrams below to work out the correct measurements at scale 1:50</li>
+            <li>Once you have completed the plan view (floor plan)
+                 complete the 3 elevations and then move onto a perspective sketch.</li>
+        </ul>
+    </p>
+</main>
 <Footer />
