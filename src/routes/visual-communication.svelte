@@ -16,11 +16,14 @@
           front side of each box. Then take the sides back to the vanishing
            points. If you get stuck draw the example. Place boxes in all differ
            ent locations and make them different sizes.
+
+        <img src="image10.jpg" alt="Drawings of boxes from different perspective"/>
     </p>
 
     <p>
         2.Perspective Bird Houses
 Draw the bird houses. Add shadows and textures
+<img src="image8.jpg" alt="Bird House draws from different perspective" />
     </p>
 
     <p>
@@ -54,7 +57,7 @@ explain or work out the following:
         <li>Tiles</li>
         <li>Wooden flooring</li>
     </ul>
-    
+    <img src="image9.jpg" alt="Example of a  drawing of a house using architectural symbols"/>
 
     <p>
         5. Architectural Plans, & Elevations
@@ -68,6 +71,8 @@ explain or work out the following:
             <li>Once you have completed the plan view (floor plan)
                  complete the 3 elevations and then move onto a perspective sketch.</li>
         </ul>
-    
+    <img src="image11.png" alt="Architectural plan of a house"/>
+    <img src="image7.png" alt="Different views of a mockup design"/>
+    <img src="image6.png" alt="Final production"/>
 </main>
 <Footer />
