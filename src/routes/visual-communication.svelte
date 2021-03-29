@@ -35,7 +35,7 @@ explain or work out the following:
     <li>What unit of measurement must all dimensions be in?</li>
 
 </ul>
-    </p>
+    
 
     <p>
         4. Architectural Symbols
@@ -54,7 +54,7 @@ explain or work out the following:
         <li>Tiles</li>
         <li>Wooden flooring</li>
     </ul>
-    </p>
+    
 
     <p>
         5. Architectural Plans, & Elevations
@@ -68,6 +68,6 @@ explain or work out the following:
             <li>Once you have completed the plan view (floor plan)
                  complete the 3 elevations and then move onto a perspective sketch.</li>
         </ul>
-    </p>
+    
 </main>
 <Footer />
