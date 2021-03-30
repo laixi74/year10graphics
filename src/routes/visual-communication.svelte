@@ -41,7 +41,7 @@
     <li>What unit of measurement must all dimensions be in?</li>
 </ol>
 </div>
-    
+   <br> 
 
     <p>
         4. Architectural Symbols
@@ -61,7 +61,7 @@
         <li>Tiles</li>
         <li>Wooden flooring</li>
     </ol>
-    
+
     <img src="image9.jpg" alt="Example of a  drawing of a house using architectural symbols"/>
 
     <p>

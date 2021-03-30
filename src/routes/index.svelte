@@ -27,7 +27,7 @@
             " .   h   ." auto
             " .   m   ." auto
             " f   f   f" auto
-            /1fr 2.5fr  1fr;
+            /1fr 2fr  1fr;
     }
     /* GLOBAL STYLES */
     :global(img) {
