@@ -9,13 +9,16 @@
 
 
 <main>
-<h3>Homework Task</h3>
-
+<h3>Design Heritage</h3>
+<br>
+Homework Task
+<p>
 SIZE: 1 x A3 Maximum
 Pick one of the following Architects to create an A3 poster, read the assessment criteria:
 
-
-<ul>
+</p>
+<div>
+    <ul>
     <li>Mies Van der Rohe</li>
     <li>Zaha Hadid</li>
     <li>Frank Gehery</li>
@@ -23,7 +26,7 @@ Pick one of the following Architects to create an A3 poster, read the assessment
     <li>Frank Lloyd Wright</li>
     <li>Daniel Libeskind</li>
 </ul>
-
+</div>
 
 Creative Challenge...
 Your presentation should reflect the style of the architect you have studied (shapes colours textures etc.).

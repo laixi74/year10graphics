@@ -9,7 +9,7 @@
 
 <main>
     <h3>Assessment Tasks</h3>
-
+<br>
     <p>
         1. Perspective
         Use the box examples on this sheet and create on your own page.
@@ -78,24 +78,3 @@ explain or work out the following:
 </main>
 <Footer />
 
-<style>
-    /* LAYOUT */
-    :global(Header) { grid-area: h; }
-    :global(Nav)    { grid-area: n; }
-    :global(main)   { grid-area: m; }
-    :global(Footer) { grid-area: f; }
-  
-    :global(#svelte) {
-      display: grid;
-      grid: " .   n   ." auto
-            " .   h   ." auto
-            " .   m   ." auto
-            " f   f   f" auto
-            /1fr 2.5fr  1fr;
-    }
-    /* GLOBAL STYLES */
-    :global(img) {
-        margin:30px;
-        width:100%;
-    }
-</style>
