@@ -23,13 +23,15 @@
 
     <p>
         2. Perspective Bird Houses
-Draw the bird houses. Add shadows and textures
-<img src="image8.jpg" alt="Bird House draws from different perspective" />
+        Draw the bird houses. Add shadows and textures
+        <img src="image8.jpg" alt="Bird House draws from different perspective" />
     </p>
 
     <p>
         3. Scale
-explain or work out the following:
+        explain or work out the following:</p>
+
+<div>
 <ul>
     <li>What does 1:2 mean?</li>
     <li>Using 1:1 what size would you draw 100mm at?</li>
@@ -37,8 +39,8 @@ explain or work out the following:
     <li>Using 1:50 what size would you draw 100mm at?</li>
     <li>How do you work out scale? Explain this</li>
     <li>What unit of measurement must all dimensions be in?</li>
-
 </ul>
+</div>
     
 
     <p>
@@ -47,6 +49,7 @@ explain or work out the following:
     Draw up a plan view of a room that will show the following. 
     Label each neatly in 3mm caps writing. You can adapt the drawing be
     low or do your own. Think about colour and texture.
+    </p>
 
     <ul>
         <li>Double doors</li>
@@ -72,6 +75,8 @@ explain or work out the following:
             <li>Once you have completed the plan view (floor plan)
                  complete the 3 elevations and then move onto a perspective sketch.</li>
         </ul>
+
+        
     <img src="image11.png" alt="Architectural plan of a house"/>
     <img src="image7.png" alt="Different views of a mockup design"/>
     <img src="image6.png" alt="Final production"/>
