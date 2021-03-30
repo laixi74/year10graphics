@@ -93,4 +93,9 @@ explain or work out the following:
             " f   f   f" auto
             /1fr 2.5fr  1fr;
     }
+    /* GLOBAL STYLES */
+    :global(img) {
+        margin:30px;
+        width:100%;
+    }
 </style>
