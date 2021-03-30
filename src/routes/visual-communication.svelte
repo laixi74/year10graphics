@@ -77,3 +77,20 @@ explain or work out the following:
     <img src="image6.png" alt="Final production"/>
 </main>
 <Footer />
+
+<style>
+    /* LAYOUT */
+    :global(Header) { grid-area: h; }
+    :global(Nav)    { grid-area: n; }
+    :global(main)   { grid-area: m; }
+    :global(Footer) { grid-area: f; }
+  
+    :global(#svelte) {
+      display: grid;
+      grid: " .   n   ." auto
+            " .   h   ." auto
+            " .   m   ." auto
+            " .   f   ." auto
+            /1fr 2.3fr  1fr;
+    }
+</style>
