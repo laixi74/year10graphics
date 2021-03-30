@@ -7,7 +7,7 @@
 <Nav />
 <Header />
 
-<main>
+<main class="content">
     <h3>Assessment Tasks</h3>
 <br>
     <p>

@@ -8,7 +8,7 @@
 <Header />
 
 
-<main>
+<main class="content">
 <h3>Design Heritage</h3>
 
 <br>
@@ -19,7 +19,6 @@ SIZE: 1 x A3 Maximum
 Pick one of the following Architects to create an A3 poster, read the assessment criteria:
 </p>
 
-<div class="content">
     <ul>
     <li>Mies Van der Rohe</li>
     <li>Zaha Hadid</li>
@@ -28,7 +27,7 @@ Pick one of the following Architects to create an A3 poster, read the assessment
     <li>Frank Lloyd Wright</li>
     <li>Daniel Libeskind</li>
 </ul>
-</div>
+
 
 <p>
 Creative Challenge...
