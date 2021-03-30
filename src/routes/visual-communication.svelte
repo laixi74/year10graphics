@@ -32,14 +32,14 @@
         explain or work out the following:</p>
 
 <div>
-<ul>
-    <li>What does 1:2 mean?</li>
+<ol type="a">
+    <li> What does 1:2 mean?</li>
     <li>Using 1:1 what size would you draw 100mm at?</li>
     <li>Using 1:20 what size would you draw 100mm at? </li>
     <li>Using 1:50 what size would you draw 100mm at?</li>
     <li>How do you work out scale? Explain this</li>
     <li>What unit of measurement must all dimensions be in?</li>
-</ul>
+</ol>
 </div>
     
 
@@ -51,7 +51,7 @@
     low or do your own. Think about colour and texture.
     </p>
 
-    <ul>
+    <ol type="a">
         <li>Double doors</li>
         <li>3 windows</li>
         <li>Walls</li>
@@ -60,7 +60,8 @@
         <li>Add a north symbol used for architecture</li>
         <li>Tiles</li>
         <li>Wooden flooring</li>
-    </ul>
+    </ol>
+    
     <img src="image9.jpg" alt="Example of a  drawing of a house using architectural symbols"/>
 
     <p>
