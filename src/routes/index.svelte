@@ -4,8 +4,9 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
-<Header />
 <Nav />
+<Header />
+
 
 <img src="image12.jpg" alt="Drawing of a large Cabin Design"/>
 <img src="image2.png" alt="Cabin design example" /> 

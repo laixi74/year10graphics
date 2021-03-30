@@ -1,4 +1,6 @@
-<header>
-    <h1>Year 10 Cabin Design</h1>
+<header class="hero">
+    <div class="hero-body has-text-centered">
+    <p class="title">Year 10 Cabin Design</p>
     <h2>Student Task Booklet</h2>
+    </div>
 </header>

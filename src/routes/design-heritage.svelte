@@ -4,8 +4,9 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
-<Header />
 <Nav />
+<Header />
+
 
 <main>
 <h3>Homework Task</h3>
