@@ -11,7 +11,7 @@
     <h3>Assessment Tasks</h3>
 
     <p>
-        1.Perspective
+        1. Perspective
         Use the box examples on this sheet and create on your own page.
          Start by putting in a line for the horizon and the VP’s then the
           front side of each box. Then take the sides back to the vanishing
@@ -22,7 +22,7 @@
     </p>
 
     <p>
-        2.Perspective Bird Houses
+        2. Perspective Bird Houses
 Draw the bird houses. Add shadows and textures
 <img src="image8.jpg" alt="Bird House draws from different perspective" />
     </p>
@@ -90,7 +90,7 @@ explain or work out the following:
       grid: " .   n   ." auto
             " .   h   ." auto
             " .   m   ." auto
-            " .   f   ." auto
-            /1fr 2.3fr  1fr;
+            " f   f   f" auto
+            /1fr 2.5fr  1fr;
     }
 </style>
