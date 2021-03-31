@@ -18,7 +18,7 @@
            points. If you get stuck draw the example. Place boxes in all differ
            ent locations and make them different sizes.
 
-        <img src="image10.jpg" alt="Drawings of boxes from different perspective"/>
+        <img class="img-box" src="image10.jpg" alt="Drawings of boxes from different perspective"/>
     </p>
 
     <p>
@@ -79,8 +79,14 @@
 
         
     <img src="image11.png" alt="Architectural plan of a house"/>
-    <img src="image7.png" alt="Different views of a mockup design"/>
-    <img src="image6.png" alt="Final production"/>
+    <img class="img-mockup" src="image7.png" alt="Different views of a mockup design"/>
+    <img class="img-final" src="image6.png" alt="Final production"/>
 </main>
 <Footer />
+
+<style>
+    
+</style>
+
+
 
