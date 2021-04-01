@@ -4,9 +4,25 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
-<Nav />
 <Header />
+<Nav />
 
+<main>
+    <div class="columns">
+
+        <div class="column">
+            
+        </div>
+
+
+
+
+
+
+    </div>
+</main>
+
+<!--first mockup
 <main class="content">
     <h3>Assessment Tasks</h3>
 <br>
@@ -84,7 +100,8 @@
     <img src="image11.png" alt="Architectural plan of a house"/>
     <img class="img-mockup" src="image7.png" alt="Different views of a mockup design"/>
     <img class="img-final" src="image6.png" alt="Final production"/>
-</main>
+</main>-->
+
 <Footer />
 
 <!--style one
