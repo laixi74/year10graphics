@@ -7,3 +7,9 @@
     <a class="navbar-item" href="visual-communication">Visual Communication</a>
     </div>
 </nav>
+
+<style>
+    nav{
+        font-size:1.3em;
+    }
+</style>

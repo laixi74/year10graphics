@@ -12,14 +12,14 @@
 <h3>Design Heritage</h3>
 
 <br>
-Homework Task
+<div class="l-text">Homework Task</div>
 
 <p>
-SIZE: 1 x A3 Maximum
+<div class="l-text">SIZE: 1 x A3 Maximum</div>
 Pick one of the following Architects to create an A3 poster, read the assessment criteria:
-</p>
 
-    <ul>
+
+<ul>
     <li>Mies Van der Rohe</li>
     <li>Zaha Hadid</li>
     <li>Frank Gehery</li>
@@ -27,23 +27,22 @@ Pick one of the following Architects to create an A3 poster, read the assessment
     <li>Frank Lloyd Wright</li>
     <li>Daniel Libeskind</li>
 </ul>
-
+<br>
 
 <p>
-Creative Challenge...
+<div class="l-text"> Creative Challenge... </div>
 Your presentation should reflect the style of the architect you have studied (shapes colours textures etc.).
 
-Answer...
+<br>
+<br>
+<div class="l-text">Answer...</div>
 What are the key features of their work?- aesthetic (looks) and functional (working)
-</p>
-
 <ul>
     <li>Include examples of their work and a little notes</li>
 </ul>
-
+<br>
 
 <p>What context do they work within?- what cultural/historical/society or technological things influence their work?</p>
-
 <ul>
     <li>Do they have a design philosophy?- what do they try and do or think about design</li>
     <li>How long have they been designing?</li>
@@ -57,3 +56,17 @@ What are the key features of their work?- aesthetic (looks) and functional (work
 </main>
 
 <Footer />
+
+<style>
+    main{
+        font-size:1.2em;
+    }
+    h3{
+        text-align:center;
+        margin-top:30px;
+        margin-bottom:30px;
+    }
+    .l-text{
+        font-size:1.2em;
+    }
+</style>

@@ -4,3 +4,12 @@
     <h2>Student Task Booklet</h2>
     </div>
 </header>
+
+<style>
+    p{
+        font-size:4em;
+    }
+    h2{
+        font-size:3em;
+    }
+</style>
