@@ -4,9 +4,13 @@
     <p>Photo Credits: Katy Whelan</p>
     </div>
 </footer>
+
+
+<!--style one
 <style>
     footer{
         font-size:1.3em;
         font-family: 'Architects Daughter', cursive;
     }
 </style>
+-->

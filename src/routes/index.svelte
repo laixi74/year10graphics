@@ -14,6 +14,8 @@
 
 <Footer />
 
+
+<!--style one
 <style>
     /* LAYOUT */
     :global(Header) { grid-area: h; }
@@ -35,4 +37,5 @@
         width:100%;
     }
 </style>
+-->
 

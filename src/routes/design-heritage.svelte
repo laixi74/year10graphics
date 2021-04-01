@@ -56,7 +56,7 @@ Your presentation should reflect the style of the architect you have studied (sh
 </main>
 
 <Footer />
-
+<!--style one
 <style>
     main{
         font-size:1.2em;
@@ -79,4 +79,4 @@ Your presentation should reflect the style of the architect you have studied (sh
     p{
         font-family: 'Source Sans Pro', sans-serif;
     }
-</style>
+</style>-->

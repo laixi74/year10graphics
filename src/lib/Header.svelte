@@ -5,6 +5,7 @@
     </div>
 </header>
 
+<!--style one
 <style>
     p{
         font-size:4em;
@@ -17,3 +18,4 @@
         color:#70798C;
     }
 </style>
+-->

@@ -8,6 +8,7 @@
     </div>
 </nav>
 
+<!--style one
 <style>
     nav{
         font-size:1.3em;
@@ -19,3 +20,4 @@
         background-color: #252323;
     }
 </style>
+-->
