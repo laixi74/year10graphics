@@ -36,13 +36,13 @@ Your presentation should reflect the style of the architect you have studied (sh
 <br>
 <br>
 <div class="l-text">Answer...</div>
-What are the key features of their work?- aesthetic (looks) and functional (working)
+<div class="colour-t">What are the <u>key features</u> of their work?- aesthetic (looks) and functional (working)</div>
 <ul>
     <li>Include examples of their work and a little notes</li>
 </ul>
 <br>
 
-<p>What context do they work within?- what cultural/historical/society or technological things influence their work?</p>
+<div class="colour-t">What <u>context</u> do they work within?- what cultural/historical/society or technological things influence their work?</div>
 <ul>
     <li>Do they have a design philosophy?- what do they try and do or think about design</li>
     <li>How long have they been designing?</li>
@@ -68,5 +68,8 @@ What are the key features of their work?- aesthetic (looks) and functional (work
     }
     .l-text{
         font-size:1.2em;
+    }
+    .colour-t{
+        color:blue;
     }
 </style>
