@@ -7,6 +7,17 @@
 <Header />
 <Nav />
 
+<main>
+    <div class="columns">
+        <div class="column">
+            <img src="image12.jpg" alt="Drawing of a large Cabin Design"/>
+        </div>
+
+        <div class="column">
+            <img src="image2.png" alt="Cabin design example"/>
+        </div>
+    </div>
+</main>
 
 <!--mockup one
 <main>
@@ -41,3 +52,9 @@
 </style>
 -->
 
+<style>
+    .columns{
+        margin-top:10em;
+        margin-bottom:20em;
+    }
+</style>

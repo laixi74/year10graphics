@@ -19,3 +19,12 @@
     }
 </style>
 -->
+
+<style>
+    p{
+        font-size:4.5em;
+    }
+    h2{
+        font-size:3em;
+    }
+</style>

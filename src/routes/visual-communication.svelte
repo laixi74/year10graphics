@@ -11,9 +11,9 @@
     <h3>Assessment Tasks</h3>
 
     <div class="columns">
-        <div class="column is-three-fifths">
+        <div class="column is-half first-box">
             <div class="l-text">1.Perspective</div>
-            <p class="left">Use the box examples on this sheet and create
+            <p >Use the box examples on this sheet and create
              on your own page. Start by putting in a line 
              for the horizon and the VP’s then the front side 
              of each box. Then take the sides back to the vanishing
@@ -26,28 +26,29 @@
         <div class="column">
             <img src="image10.jpg" alt="Different perspective of boxes"/>       
          </div>
-
     </div>
+
     <hr>
 
     <div class="columns">
-        <div class="column">
-            <img src="image8.jpg" alt="Bird houses drawn at different perspective"/>
+        <div class="column is-half">
+            <img  src="image8.jpg" alt="Bird houses drawn at different perspective"/>
         </div>
 
-        <div class="column  is-three-fifths">
-            <div class="l-text">2.Perspective Bird Houses</div>
-            <p class="right">
+        <div class="column">
+            <div class="l-text second-box">2.Perspective Bird Houses</div>
+            <p class="second-para">
                 Draw the bird houses. Add shadows and textures
             </p>
         </div>
     </div>
 
-    <div>
+    <hr>
 
+    <div class="middle">
         <div class="l-text">3.Scale</div>
 
-    <p class="middle">
+    <p>
         explain or work out the following:
     <ul>
         <li>What does 1:2 mean?</li>
@@ -59,18 +60,18 @@
     </ul>
 
     </div>
-<hr>
+
+
+    <hr>
 
     <div class="columns">
-        <div class="column">
+        <div class="column is-half">
             <div class="l-text">4.Architectural Symbols</div>
-            <p class="left">
+            <p>
                 Draw up a plan view of a room that will show the following. 
                 Label each neatly in 3mm caps writing. You can adapt the drawing 
                 below or 
                 do your own. Think about colour and texture.
-            
-
             <ul>
                 <li>Double doors</li>
                 <li>3 windows</li>
@@ -81,8 +82,6 @@
                 <li>Tiles</li>
                 <li>Wooden flooring</li>
             </ul>
-
-        
         </div>
 
         <div class="column">
@@ -91,12 +90,13 @@
     </div>
 
     <hr>
+
     <div class="columns">
-        <div class="column">
+        <div class="column ">
             <img src="image11.png" alt="Example of a plan with measurements"/>
         </div>
 
-        <div class="column">
+        <div class=" five-box column is-two-fifths">
             <div class="l-text">5.Architectural Plans & Elevations</div>
             <p>Draw an accurate
                  to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.</p>
@@ -111,6 +111,7 @@
         </div>
     </div>
 
+    <hr>
     <img src="image7.png" alt="Different view of a mockup design"/>
     <img src="image6.png" alt="Final production"/>
 </main>
@@ -217,16 +218,47 @@
 -->
 
 <style>
-    img{
-        margin-left:13em;
-        margin-right:1em;
+    /* LAYOUT */
+    :global(Header) { grid-area: h; }
+    :global(Nav)    { grid-area: n; }
+    :global(main)   { grid-area: m; }
+    :global(Footer) { grid-area: f; }
+  
+    :global(#svelte) {
+      display: grid;
+      grid: " .   n   ." auto
+            " .   h   ." auto
+            " .   m   ." auto
+            " f   f   f" auto
+            /1fr 2fr  1fr;
     }
-    .left{
-        margin-left:4em;
+    /* GLOBAL STYLES */
+    :global(img) {
+        margin:30px;
+        width:100%;
     }
-    .right{
-        margin-right:4em;
+    .l-text{
+        font-size:1.8em;
     }
+    .middle{
+        margin-left:450px;
+        margin-top:6em;
+        margin-bottom:6em;
+    }
+    .columns{
+        margin-top:6em;
+        margin-bottom:6em;
+    }
+    .first-box{
+        margin-top:4em;
+    }
+    .five-box{
+        margin:40px;
+    }
+   h3{
+       text-align: center;
+       font-size:2.2em;
+   }
 </style>
 
 
