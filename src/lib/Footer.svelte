@@ -19,6 +19,7 @@
     footer{
         margin-top:4em;
         font-family: 'Josefin Sans', sans-serif;
+        color:#CEB5A7;
     }
 
 </style>

@@ -9,7 +9,8 @@
 
 
 <main class="content">
-    <h3>Assessment Tasks</h3>
+    <h3>Visual Communication</h3>
+    <p class="subtitle">Assessment Tasks</p>
 
     <div class="columns">
         <div class="column is-half first-box">
@@ -18,9 +19,9 @@
              on your own page. Start by putting in a line 
              for the horizon and the VP’s then the front side 
              of each box. Then take the sides back to the vanishing
-              points. If you get stuck draw the example. Place boxes in 
-              all different locations and make them different sizes.
-              Use the box examples on this sheet and create on your own page.
+              points. If you get stuck draw the example.  Place boxes in all different
+               locations and make them different sizes.
+
               </p>
         </div>
 
@@ -51,14 +52,14 @@
 
     <p>
         explain or work out the following:
-    <ul>
+    <ol type="a">
         <li>What does 1:2 mean?</li>
         <li>Using 1:1 what size would you draw 100mm at?</li>
         <li>Using 1:20 what size would you draw 100mm at? </li>
         <li>Using 1:50 what size would you draw 100mm at?</li>
         <li>How do you work out scale? Explain this</li>
         <li>What unit of measurement must all dimensions be in?</li>
-    </ul>
+    </ol>
 
     </div>
 
@@ -73,7 +74,7 @@
                 Label each neatly in 3mm caps writing. You can adapt the drawing 
                 below or 
                 do your own. Think about colour and texture.
-            <ul>
+            <ol type="a">
                 <li>Double doors</li>
                 <li>3 windows</li>
                 <li>Walls</li>
@@ -82,7 +83,7 @@
                 <li>Add a north symbol used for architecture</li>
                 <li>Tiles</li>
                 <li>Wooden flooring</li>
-            </ul>
+            </ol>
         </div>
 
         <div class="column">
@@ -238,6 +239,12 @@
         margin:30px;
         width:100%;
     }
+    .subtitle{
+        font-size:2em;
+        margin-top:6em;
+        font-family: 'Josefin Sans', sans-serif;
+        color:#C2948A;
+    }
     .l-text{
         font-size:1.8em;
         font-family: 'Josefin Sans', sans-serif;
@@ -249,7 +256,7 @@
         margin-bottom:6em;
     }
     .columns{
-        margin-top:6em;
+        margin-top:1em;
         margin-bottom:6em;
     }
     .first-box{
@@ -266,7 +273,7 @@
    }
    hr{
        color: rgb(63, 63, 63);
-       margin-bottom:2em;
+       margin-bottom:4em;
    }
 
    p{
