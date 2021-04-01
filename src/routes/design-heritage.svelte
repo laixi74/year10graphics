@@ -26,6 +26,9 @@
     <li>Daniel Libeskind</li>  
 </ul>
 
+<img src="image4.jpg" alt="Art and architecture:their link through the years"/>
+
+
 <div class="l-text">Creative Challenge...</div>
 <p>Your presentation should reflect the style of the architect you have 
     studied (shapes colours textures etc.).</p>
@@ -47,11 +50,6 @@
     <li>Are there any interesting facts you have found about them?</li>
     <li>Include a quote that they have said</li>
 </ul>
-
-
-<img src="image4.jpg" alt="Art and architecture:their link through the years"/>
-
-
 
 
 </main>

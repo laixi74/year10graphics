@@ -7,7 +7,7 @@
 <Header />
 <Nav />
 
-<main>
+<main class="content">
 <h3>Visual Communication</h3>
 <p class="subtitle">Assessment Tasks</p>
 
@@ -24,31 +24,40 @@
 </p>
 <img src="image10.jpg" alt="Different perspective of boxes"/>   
 
-<div class="columns">
+<div class="columns is-8">
     <div class="column">
-        <div class="l-text">2.Perspective Bird Houses</div>
-        Draw the bird houses. Add shadows and textures
-
-        <img src="image8.jpg" alt="Bird houses drawn at different perspective"/>
+        <div class="l-text second-box">2.Perspective Bird Houses</div>
+        <p class="second-para">
+            Draw the bird houses. Add shadows and textures
+        </p>
     </div>
 
     <div class="column">
-        <div class="l-text"> 3. Scale</div>
-        <p>
-            explain or work out the following:
-        <ol type="a">
-            <li>What does 1:2 mean?</li>
-            <li>Using 1:1 what size would you draw 100mm at?</li>
-            <li>Using 1:20 what size would you draw 100mm at? </li>
-            <li>Using 1:50 what size would you draw 100mm at?</li>
-            <li>How do you work out scale? Explain this</li>
-            <li>What unit of measurement must all dimensions be in?</li>
-        </ol>
+        <div class="l-text">3.Scale</div>
+
+    <p>
+        explain or work out the following:
+    <ol type="a">
+        <li>What does 1:2 mean?</li>
+        <li>Using 1:1 what size would you draw 100mm at?</li>
+        <li>Using 1:20 what size would you draw 100mm at? </li>
+        <li>Using 1:50 what size would you draw 100mm at?</li>
+        <li>How do you work out scale? Explain this</li>
+        <li>What unit of measurement must all dimensions be in?</li>
+    </ol>
+
+    </div>
+</div>
+
+
+        
+    <div class="center-img">
+        <img  src="image8.jpg" alt="Bird houses drawn at different perspective"/>
     </div>
 
 <div class="columns">
-    <div class="column">
-        <div class="l-text"> 4. Architectural Symbols</div>
+    <div class="column ">
+        <div class="l-text">4.Architectural Symbols</div>
             <p>
                 Draw up a plan view of a room that will show the following. 
                 Label each neatly in 3mm caps writing. You can adapt the drawing 
@@ -64,26 +73,35 @@
                 <li>Tiles</li>
                 <li>Wooden flooring</li>
             </ol>
-        <img src="image9.jpg" alt="floor plan of a room using architectural symbols"/>
     </div>
 
     <div class="column">
         <div class="l-text">5.Architectural Plans & Elevations</div>
-        <p>Draw an accurate
-             to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.</p>
-        <br>
-        <ul>
-            <li>You will be drawing at scale 1:50 for the elevations and floor plan.</li>
-            <li>Add the wall thickness (walls are 100mm so will be drawn as 2mm thick )</li>
-            <li>Use the diagrams below to work out the correct measurements at scale 1:50</li>
-            <li>Once you have completed the plan view (floor plan) complete the 3 e
-                levations and then move onto a perspective sketch.</li>
-        </ul>
+            <p>Draw an accurate
+                 to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.</p>
+            <br>
+            <ul>
+                <li>You will be drawing at scale 1:50 for the elevations and floor plan.</li>
+                <li>Add the wall thickness (walls are 100mm so will be drawn as 2mm thick )</li>
+                <li>Use the diagrams below to work out the correct measurements at scale 1:50</li>
+                <li>Once you have completed the plan view (floor plan) complete the 3 e
+                    levations and then move onto a perspective sketch.</li>
+            </ul>
+    </div>
+</div>
+
+<div class="columns">
+    <div class="column">
+        <img src="image9.jpg" alt="floor plan of a room using architectural symbols "/>
+    </div>
+
+    <div class="column">
         <img src="image11.png" alt="Example of a plan with measurements"/>
     </div>
 </div>
 
-</div>
+<img src="image7.png" alt="Different view of a mockup design"/>
+<img src="image6.png" alt="Final production"/>
 </main>
 
 <!--second mockup
@@ -389,4 +407,12 @@
         margin:30px;
         width:100%;
     }
+    .column{
+        margin-top:7em;
+        margin-bottom:4em;
+    }
+    img{
+        margin:30px;
+    }
+   
 </style>
