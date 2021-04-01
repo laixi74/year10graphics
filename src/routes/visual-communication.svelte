@@ -5,6 +5,7 @@
 </script>
 
 <Header />
+
 <Nav />
 
 <main class="content">
@@ -241,7 +242,7 @@
         font-size:1.8em;
     }
     .middle{
-        margin-left:450px;
+        margin-left:300px;
         margin-top:6em;
         margin-bottom:6em;
     }
@@ -258,6 +259,9 @@
    h3{
        text-align: center;
        font-size:2.2em;
+   }
+   hr{
+       border:0.1px solid lightgrey;
    }
 </style>
 

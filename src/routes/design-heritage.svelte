@@ -6,17 +6,18 @@
 
 
 <Header />
+
 <Nav />
 
 <main class="content">
 <h3>Design Heritage</h3>
-<p>Homework Task</p>
+<p class="subtitle">Homework Task</p>
 
 <div class="columns">
-    <div class="column is-half">
-        <p class="l-text">SIZE: 1 x A3 Maximum</p>
-        Pick one of the following Architects to create an A3 post
-        er, read the assessment criteria:
+    <div class=" box-one column is-half">
+        <div class="l-text">SIZE: 1 x A3 Maximum</div>
+        Pick one of the following Architects to create an A3 poster, 
+        read the assessment criteria:
         
         <ul>
             <li>Mies Van der Rohe</li>
@@ -34,20 +35,24 @@
 
 </div>
 
-<p class="l-text">Creative Challenge...</p>
+<div class="second-section">
+
+<div class="l-text">Creative Challenge...</div>
         Your presentation should reflect the style of the a
         rchitect you have studied (shapes colours textures etc.).
         <br>
-        <p class="l-text">Answer...</p>
         <br>
-        <p class="color-t">What are the key features of their work?- 
-            aesthetic (looks) and functional (working)</p>
+        <br>
+        <br>
+        <div class="l-text">Answer...</div>
+        <div class="color-t">What are the key features of their work?- 
+            aesthetic (looks) and functional (working)</div>
         <ul>
             <li>Include examples of their work and a little notes</li>
         </ul>
         <br>
-        
-
+        <br>
+<br>
         <p class="color-t">What context do they work within?- what cultural/historica
             l/society or technological things influence their work?</p>
 
@@ -59,6 +64,7 @@
             <li>Are there any interesting facts you have found about them?</li>
             <li>Include a quote that they have said</li>
         </ul>
+    </div>
 </main>
 <!--mockup one
 <main class="content">
@@ -112,6 +118,29 @@ Your presentation should reflect the style of the architect you have studied (sh
 
 <style>
     
+    .box-one{
+        margin-top:50px;
+    }
+    h3{
+        text-align:center;
+        font-size:2em;
+    }
+    .subtitle{
+        font-size:2em;
+        margin-top:6em;
+    }
+    .l-text{
+        font-size:1.7em;
+    }
+    .columns{
+        margin-bottom:8em;
+    }
+    .second-section{
+        margin-left:100px;
+    }
+    .color-t{
+        color:blue;
+    }
 </style>
 
 <!--style one
