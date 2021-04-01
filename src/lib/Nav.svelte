@@ -11,5 +11,11 @@
 <style>
     nav{
         font-size:1.3em;
+        color:#70798C;
+        font-family: 'Architects Daughter', cursive;
+    }
+    a:hover{
+        color:#F5F1ED;
+        background-color: #252323;
     }
 </style>

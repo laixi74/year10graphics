@@ -93,10 +93,14 @@
     }
     h3{
         text-align:center;
+        font-family: 'Architects Daughter', cursive;
+        color:#252323;
     }
     .large-text{
         margin-bottom:5px;
         font-size:1.4em;
+        font-family: 'Architects Daughter', cursive;
+        
     }
 </style>
 

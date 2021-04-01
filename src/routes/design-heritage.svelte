@@ -60,16 +60,23 @@ Your presentation should reflect the style of the architect you have studied (sh
 <style>
     main{
         font-size:1.2em;
+        
     }
     h3{
         text-align:center;
         margin-top:30px;
         margin-bottom:30px;
+        font-family: 'Architects Daughter', cursive;
     }
     .l-text{
         font-size:1.2em;
+        font-family: 'Architects Daughter', cursive;
+        color:#252323;
     }
     .colour-t{
-        color:blue;
+        color:#70798C;
+    }
+    p{
+        font-family: 'Source Sans Pro', sans-serif;
     }
 </style>
