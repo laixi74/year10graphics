@@ -23,8 +23,12 @@
 <style>
     p{
         font-size:4.5em;
+        font-family: 'Dela Gothic One', cursive;
+        color:#CEB5A7;
     }
     h2{
         font-size:3em;
+        font-family: 'Josefin Sans', sans-serif;
+        color:#BFB5AF;
     }
 </style>

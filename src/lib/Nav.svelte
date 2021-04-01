@@ -8,6 +8,20 @@
     </div>
 </nav>
 
+<style>
+    nav{
+        font-family: 'Josefin Sans', sans-serif;
+        font-size:1.4em; 
+    }
+    nav a{
+        color:#BFB5AF;
+    }
+    a:hover{
+       color:#C2948A;
+    }
+    
+</style>
+
 <!--style one
 <style>
     nav{

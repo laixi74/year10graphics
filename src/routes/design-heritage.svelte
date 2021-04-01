@@ -51,8 +51,7 @@
             <li>Include examples of their work and a little notes</li>
         </ul>
         <br>
-        <br>
-<br>
+        
         <p class="color-t">What context do they work within?- what cultural/historica
             l/society or technological things influence their work?</p>
 
@@ -117,20 +116,32 @@ Your presentation should reflect the style of the architect you have studied (sh
 <Footer />
 
 <style>
-    
+    p{
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    ul{
+        font-family: 'Source Sans Pro', sans-serif;
+    }
     .box-one{
         margin-top:50px;
+        font-family: 'Source Sans Pro', sans-serif;
     }
     h3{
         text-align:center;
         font-size:2em;
+        font-family: 'Josefin Sans', sans-serif;
+        color:#C2948A;
     }
     .subtitle{
         font-size:2em;
         margin-top:6em;
+        font-family: 'Josefin Sans', sans-serif;
+        color:#C2948A;
     }
     .l-text{
         font-size:1.7em;
+        font-family: 'Josefin Sans', sans-serif;
+        color:#C2948A;
     }
     .columns{
         margin-bottom:8em;
@@ -139,7 +150,7 @@ Your presentation should reflect the style of the architect you have studied (sh
         margin-left:100px;
     }
     .color-t{
-        color:blue;
+        color:#C2948A;
     }
 </style>
 

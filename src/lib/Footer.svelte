@@ -18,6 +18,7 @@
 <style>
     footer{
         margin-top:4em;
+        font-family: 'Josefin Sans', sans-serif;
     }
 
 </style>

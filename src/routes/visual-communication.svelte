@@ -240,6 +240,8 @@
     }
     .l-text{
         font-size:1.8em;
+        font-family: 'Josefin Sans', sans-serif;
+        color:#C2948A;
     }
     .middle{
         margin-left:300px;
@@ -259,10 +261,20 @@
    h3{
        text-align: center;
        font-size:2.2em;
+       font-family: 'Josefin Sans', sans-serif;
+       color:#C2948A;
    }
    hr{
        color: rgb(63, 63, 63);
        margin-bottom:2em;
+   }
+
+   p{
+    font-family: 'Source Sans Pro', sans-serif;
+   }
+
+   ul{
+    font-family: 'Source Sans Pro', sans-serif;
    }
 </style>
 
