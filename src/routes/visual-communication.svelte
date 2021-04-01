@@ -7,7 +7,7 @@
 <Header />
 
 
-
+<!--second mockup
 <main class="content">
     <h3>Visual Communication</h3>
     <p class="subtitle">Assessment Tasks</p>
@@ -117,6 +117,7 @@
     <img src="image7.png" alt="Different view of a mockup design"/>
     <img src="image6.png" alt="Final production"/>
 </main>
+-->
 
 <!--first mockup
 <main class="content">
@@ -219,7 +220,10 @@
 </style>
 -->
 
+
+<!--style two
 <style>
+
     /* LAYOUT */
     :global(Header) { grid-area: h; }
     :global(Nav)    { grid-area: n; }
@@ -284,5 +288,5 @@
     font-family: 'Source Sans Pro', sans-serif;
    }
 </style>
-
+-->
 

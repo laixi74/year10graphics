@@ -8,7 +8,7 @@
 <Header />
 
 
-
+<!--mockup two
 <main class="content">
 <h3>Design Heritage</h3>
 <p class="subtitle">Homework Task</p>
@@ -65,6 +65,13 @@
         </ul>
     </div>
 </main>
+-->
+
+
+
+
+
+
 <!--mockup one
 <main class="content">
 <h3>Design Heritage</h3>
@@ -115,6 +122,7 @@ Your presentation should reflect the style of the architect you have studied (sh
 
 <Footer />
 
+<!--style two
 <style>
     p{
         font-family: 'Source Sans Pro', sans-serif;
@@ -153,6 +161,10 @@ Your presentation should reflect the style of the architect you have studied (sh
         color:#C2948A;
     }
 </style>
+-->
+
+
+
 
 <!--style one
 <style>

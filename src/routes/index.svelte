@@ -7,7 +7,7 @@
 <Header />
 
 
-
+<!--Mockup two
 <main>
     <div class="columns">
         <div class="column">
@@ -19,6 +19,7 @@
         </div>
     </div>
 </main>
+-->
 
 <!--mockup one
 <main>
@@ -53,9 +54,12 @@
 </style>
 -->
 
+
+<!--style two
 <style>
     .columns{
         margin-top:10em;
         margin-bottom:20em;
     }
 </style>
+-->
