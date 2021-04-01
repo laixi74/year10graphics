@@ -4,8 +4,9 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
-<Nav />
+
 <Header />
+<Nav />
 
 
 <!--mockup two

@@ -8,6 +8,8 @@
     </div>
 </nav>
 
+
+<!--style two
 <style>
     nav{
         font-family: 'Josefin Sans', sans-serif;
@@ -21,6 +23,7 @@
     }
     
 </style>
+-->
 
 <!--style one
 <style>
