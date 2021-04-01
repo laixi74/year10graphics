@@ -11,7 +11,8 @@
     <h3>Assessment Tasks</h3>
 <br>
     <p>
-        1. Perspective
+       <div class="large-text" >1. Perspective</div>
+        
         Use the box examples on this sheet and create on your own page.
          Start by putting in a line for the horizon and the VP’s then the
           front side of each box. Then take the sides back to the vanishing
@@ -19,17 +20,19 @@
            ent locations and make them different sizes.
 
         <img class="img-box" src="image10.jpg" alt="Drawings of boxes from different perspective"/>
-    </p>
+    
 
     <p>
-        2. Perspective Bird Houses
+        <div class="large-text" >2. Perspective Bird Houses</div>
+        
         Draw the bird houses. Add shadows and textures
         <img src="image8.jpg" alt="Bird House draws from different perspective" />
-    </p>
+    
 
     <p>
-        3. Scale
-        explain or work out the following:</p>
+        <div class="large-text" >3. Scale</div>
+        
+        explain or work out the following:
 
 <div>
 <ol type="a">
@@ -44,12 +47,12 @@
    <br> 
 
     <p>
-        4. Architectural Symbols
+        <div class="large-text" >4. Architectural Symbols</div>
 
     Draw up a plan view of a room that will show the following. 
     Label each neatly in 3mm caps writing. You can adapt the drawing be
     low or do your own. Think about colour and texture.
-    </p>
+    
 
     <ol type="a">
         <li>Double doors</li>
@@ -65,8 +68,8 @@
     <img src="image9.jpg" alt="Example of a  drawing of a house using architectural symbols"/>
 
     <p>
-        5. Architectural Plans, & Elevations
-
+        <div class="large-text" >5. Architectural Plans, & Elevations</div>
+<br>
         Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.
 
         <ul>
@@ -87,6 +90,13 @@
 <style>
     main{
         font-size:1.2em;
+    }
+    h3{
+        text-align:center;
+    }
+    .large-text{
+        margin-bottom:5px;
+        font-size:1.4em;
     }
 </style>
 

@@ -4,3 +4,8 @@
     <p>Photo Credits: Katy Whelan</p>
     </div>
 </footer>
+<style>
+    footer{
+        font-size:1.3em;
+    }
+</style>
