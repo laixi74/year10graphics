@@ -3,10 +3,10 @@
     import Nav from "$lib/Nav.svelte";
     import Footer from "$lib/Footer.svelte";
 </script>
-
+<Nav />
 <Header />
 
-<Nav />
+
 
 <main class="content">
     <h3>Assessment Tasks</h3>
@@ -261,7 +261,8 @@
        font-size:2.2em;
    }
    hr{
-       border:0.1px solid lightgrey;
+       color: rgb(63, 63, 63);
+       margin-bottom:2em;
    }
 </style>
 

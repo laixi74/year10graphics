@@ -4,10 +4,10 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
-
+<Nav />
 <Header />
 
-<Nav />
+
 
 <main class="content">
 <h3>Design Heritage</h3>
