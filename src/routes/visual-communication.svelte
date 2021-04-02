@@ -5,9 +5,10 @@
 </script>
 
 <Header />
-<Nav />
+
 
 <main class="content">
+    <Nav />
 <div class="intro">
 <h3>Visual Communication</h3>
 <p class="subtitle">Assessment Tasks</p>

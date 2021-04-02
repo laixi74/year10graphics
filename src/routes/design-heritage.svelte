@@ -6,9 +6,10 @@
 
 
 <Header />
-<Nav />
+
 
 <main class="content">
+    <Nav />
 <div class="intro">
 <h3>Design Heritage</h3>
 <p class="subtitle">Homework Task</p>
@@ -203,6 +204,7 @@ Your presentation should reflect the style of the architect you have studied (sh
     }
     .l-text{
         font-size:2em;
+        color:#DBBEA1;
     }
 </style>
 <!--style two
