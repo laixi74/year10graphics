@@ -36,3 +36,13 @@
     }
 </style>
 -->
+
+
+<style>
+    p{
+        font-family: 'Permanent Marker', cursive;
+    }
+    h2{
+        font-family: 'Reggae One', cursive;
+    }
+</style>

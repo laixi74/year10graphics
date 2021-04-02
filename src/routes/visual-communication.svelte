@@ -8,9 +8,12 @@
 <Nav />
 
 <main class="content">
+<div class="intro">
 <h3>Visual Communication</h3>
 <p class="subtitle">Assessment Tasks</p>
+</div>
 
+<div class="one-para">
 <div class="l-text">1.Perspective</div>
 <p>
     Use the box examples on this sheet and create 
@@ -22,10 +25,11 @@
       and make them different sizes.
  
 </p>
+</div>
 <img src="image10.jpg" alt="Different perspective of boxes"/>   
 
 <div class="columns is-8">
-    <div class="column">
+    <div class="column two-para">
         <div class="l-text second-box">2.Perspective Bird Houses</div>
         <p class="second-para">
             Draw the bird houses. Add shadows and textures
@@ -56,7 +60,7 @@
     </div>
 
 <div class="columns">
-    <div class="column ">
+    <div class="column four-para ">
         <div class="l-text">4.Architectural Symbols</div>
             <p>
                 Draw up a plan view of a room that will show the following. 
@@ -414,5 +418,19 @@
     img{
         margin:30px;
     }
-   
+   .intro{
+       text-align:center;
+       margin-top:5em;
+       margin-bottom:6em;
+   }
+   .one-para{
+       margin-left:8em;
+       margin-right:9em;
+   }
+   .two-para{
+       margin-left:8em;
+   }
+   .four-para{
+       margin-right:3em;
+   }
 </style>

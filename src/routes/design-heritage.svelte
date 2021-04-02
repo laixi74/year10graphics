@@ -9,11 +9,13 @@
 <Nav />
 
 <main class="content">
+<div class="intro">
 <h3>Design Heritage</h3>
 <p>Homework Task</p>
-
-<div class="l-text">SIZE: 1 x A3 Maximum</div>
+</div>
 <br>
+<div class="fir-para">
+<div class="l-text">SIZE: 1 x A3 Maximum</div>
 <p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
 </p>
 
@@ -25,10 +27,10 @@
     <li>Frank Lloyd Wright</li>
     <li>Daniel Libeskind</li>  
 </ul>
-
+</div>
 <img src="image4.jpg" alt="Art and architecture:their link through the years"/>
 
-
+<div class="sec-para">
 <div class="l-text">Creative Challenge...</div>
 <p>Your presentation should reflect the style of the architect you have 
     studied (shapes colours textures etc.).</p>
@@ -50,7 +52,7 @@
     <li>Are there any interesting facts you have found about them?</li>
     <li>Include a quote that they have said</li>
 </ul>
-
+</div>
 
 </main>
 <!--mockup two
@@ -166,7 +168,26 @@ Your presentation should reflect the style of the architect you have studied (sh
 </main>-->
 
 <Footer />
-
+<style>
+    img{
+        margin-top:6em;
+        margin-bottom:6em;
+    }
+    .fir-para{
+        margin-top:4em;
+        margin-left:20em;
+    }
+    .sec-para{
+        margin-left:20em;
+    }
+    ul{
+        margin-left:4em;
+    }
+    .intro{
+        margin-top:5em;
+        text-align: center;
+    }
+</style>
 <!--style two
 <style>
     p{
