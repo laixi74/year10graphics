@@ -428,9 +428,34 @@
        margin-right:9em;
    }
    .two-para{
-       margin-left:8em;
+       margin-left:4em;
    }
    .four-para{
        margin-right:3em;
+   }
+   h3{
+    font-family: 'Varela Round', sans-serif;
+    font-size:2.6em;
+   }
+   .subtitle{
+    font-family: 'Varela Round', sans-serif;
+    font-size:2em;
+    
+   }
+   .l-text{
+    font-family: 'Varela Round', sans-serif;
+    font-size:2em;
+   }
+   p{
+    font-family: 'Lato', sans-serif;
+    font-size:1.7em;
+   }
+   ul{
+    font-family: 'Lato', sans-serif;
+    font-size:1.7em;
+   }
+   ol{
+    font-family: 'Lato', sans-serif;
+    font-size:1.7em;  
    }
 </style>

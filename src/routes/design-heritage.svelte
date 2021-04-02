@@ -11,7 +11,7 @@
 <main class="content">
 <div class="intro">
 <h3>Design Heritage</h3>
-<p>Homework Task</p>
+<p class="subtitle">Homework Task</p>
 </div>
 <br>
 <div class="fir-para">
@@ -175,17 +175,34 @@ Your presentation should reflect the style of the architect you have studied (sh
     }
     .fir-para{
         margin-top:4em;
-        margin-left:20em;
+        margin-left:15em;
     }
     .sec-para{
-        margin-left:20em;
+        margin-left:15em;
     }
     ul{
         margin-left:4em;
+        font-family: 'Lato', sans-serif;
+        font-size:1.7em;
     }
     .intro{
         margin-top:5em;
         text-align: center;
+    }
+    p{
+        font-family: 'Lato', sans-serif;
+        font-size:1.7em;
+    }
+    h3{
+        font-size:2.6em;
+        font-family: 'Varela Round', sans-serif;
+    }
+    .subtitle{
+        font-size:2em;
+        font-family: 'Varela Round', sans-serif;
+    }
+    .l-text{
+        font-size:2em;
     }
 </style>
 <!--style two

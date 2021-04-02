@@ -25,3 +25,10 @@
 
 </style>
 -->
+
+<style>
+footer{
+    font-family: 'Varela Round', sans-serif;
+    font-size:1.6em;
+} 
+</style>

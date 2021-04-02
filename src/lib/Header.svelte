@@ -40,9 +40,12 @@
 
 <style>
     p{
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Yatra One', cursive;
+        font-size:5em;
     }
     h2{
-        font-family: 'Reggae One', cursive;
+        font-family: 'Varela Round', sans-serif;
+        font-size:3.7em;
     }
+
 </style>

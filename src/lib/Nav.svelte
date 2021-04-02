@@ -9,6 +9,12 @@
 </nav>
 
 
+<style>
+    nav{
+        font-family: 'Varela Round', sans-serif;
+        font-size:1.8em;
+    }
+</style>
 <!--style two
 <style>
     nav{
