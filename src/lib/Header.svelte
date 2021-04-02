@@ -42,12 +42,12 @@
     p{
         font-family: 'Yatra One', cursive;
         font-size:5em;
-        color:#DB7F67;
+        color: #B5D2CB;
     }
     h2{
         font-family: 'Varela Round', sans-serif;
         font-size:3.7em;
-        color:#A37B73;
+        color: #B5D2CB;
     }
 
 </style>

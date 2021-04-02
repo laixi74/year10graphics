@@ -197,14 +197,19 @@ Your presentation should reflect the style of the architect you have studied (sh
     h3{
         font-size:2.6em;
         font-family: 'Varela Round', sans-serif;
+        color:#A8AEC1;
     }
     .subtitle{
         font-size:2em;
         font-family: 'Varela Round', sans-serif;
+        color:#A8AEC1;
     }
     .l-text{
         font-size:2em;
-        color:#DBBEA1;
+        color:#A09EBB;
+    }
+    .color-text{
+        color:#A8AEC1;
     }
 </style>
 <!--style two

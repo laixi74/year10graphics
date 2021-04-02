@@ -437,15 +437,17 @@
    h3{
     font-family: 'Varela Round', sans-serif;
     font-size:2.6em;
+    color:#A09EBB;
    }
    .subtitle{
     font-family: 'Varela Round', sans-serif;
     font-size:2em;
-    
+    color:#A8AEC1;
    }
    .l-text{
     font-family: 'Varela Round', sans-serif;
     font-size:2em;
+    color:#A09EBB;
    }
    p{
     font-family: 'Lato', sans-serif;

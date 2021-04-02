@@ -13,6 +13,15 @@
     nav{
         font-family: 'Varela Round', sans-serif;
         font-size:1.8em;
+        margin-bottom:6em;
+        margin-left:5em;
+        
+    }
+    nav a{
+        color:#A09EBB;
+    }
+    a:hover{
+        color:rgb(81, 51, 119);
     }
 </style>
 <!--style two
