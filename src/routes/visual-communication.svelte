@@ -265,7 +265,7 @@
 </ol>
 </div>
    <br> 
-
+<br>
     
         <div class="large-text" >4. Architectural Symbols</div>
 
@@ -334,6 +334,9 @@
     }
     p{
         font-size:1.9em;
+    }
+    div{
+        margin-top:3em;
     }
 </style>
 
