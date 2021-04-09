@@ -124,7 +124,7 @@
 <main class="content">
 <h3>Design Heritage</h3>
 <p class="subtitle">Homework Task</p>
-
+<br><br><br><br><br><br>
 <div class="l-text">SIZE: 1 x A3 Maximum</div>
 <p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
 </p>
@@ -268,8 +268,7 @@
         font-size:2.7em;
         text-align:center;
         font-family: 'Architects Daughter', cursive;
-        margin-bottom:4em;
-        margin-top:0;
+        margin-bottom: 3em;
     }
     h3{
         text-align:center;
@@ -283,6 +282,7 @@
         font-family: 'Architects Daughter', cursive;
         color:#252323;
         margin-bottom:5px;
+       
     }
     .colour-t{
         color:#70798C;

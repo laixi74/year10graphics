@@ -321,13 +321,14 @@
         font-size:2.7em;
         font-family: 'Architects Daughter', cursive;
         text-align:center;
+       
     }
 
     .large-text{
         margin-bottom:5px;
         font-size:2.5em;
         font-family: 'Architects Daughter', cursive;
-        
+        color:#252323;
     }
     ol, ul{
         font-size:1.9em;
