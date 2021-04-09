@@ -112,8 +112,6 @@
 -->
 
 
-
-
 <!--second mockup
 <main class="content">
     <h3>Visual Communication</h3>
@@ -226,9 +224,11 @@
 </main>
 -->
 
+
 <!--first mockup-->
 <main class="content">
-    <h3>Assessment Tasks</h3>
+    <h3>Visual Communication</h3>
+    <p class="subtitle">Assessment Tasks</p>
 <br>
     <p>
        <div class="large-text" >1. Perspective</div>
@@ -236,8 +236,8 @@
         Use the box examples on this sheet and create on your own page.
          Start by putting in a line for the horizon and the VP’s then the
           front side of each box. Then take the sides back to the vanishing
-           points. If you get stuck draw the example. Place boxes in all differ
-           ent locations and make them different sizes.
+           points. If you get stuck draw the example. Place boxes in all different 
+           locations and make them different sizes.
 
         <img class="img-box" src="image10.jpg" alt="Drawings of boxes from different perspective"/>
     
@@ -305,7 +305,6 @@
     <img class="img-mockup" src="image7.png" alt="Different views of a mockup design"/>
     <img class="img-final" src="image6.png" alt="Final production"/>
 </main>
-
 <Footer />
 
 <!--style one-->
@@ -317,8 +316,15 @@
         text-align:center;
         font-family: 'Architects Daughter', cursive;
         color:#252323;
-        font-size:2em;
+        margin-top:3em;
+        font-size:2.6em;
     }
+    .subtitle{
+        font-size:2em;
+        font-family: 'Architects Daughter', cursive;
+        text-align:center;
+    }
+
     .large-text{
         margin-bottom:5px;
         font-size:2em;

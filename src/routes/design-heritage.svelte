@@ -123,10 +123,7 @@
 <!--mockup one-->
 <main class="content">
 <h3>Design Heritage</h3>
-
-<br>
-<div class="l-text">Homework Task</div>
-
+<p class="subtitle">Homework Task</p>
 
 <div class="l-text">SIZE: 1 x A3 Maximum</div>
 <p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
@@ -267,13 +264,18 @@
 
 <!--style one-->
 <style>
-    
+    .subtitle{
+        font-size:3em;
+        text-align:center;
+        font-family: 'Architects Daughter', cursive;
+        margin-bottom:4em;
+        margin-top:0;
+    }
     h3{
         text-align:center;
-        margin-top:30px;
-        margin-bottom:30px;
+        margin-top:4em;
         font-family: 'Architects Daughter', cursive;
-        font-size:2em;
+        font-size:4em;
     }
     
     .l-text{
