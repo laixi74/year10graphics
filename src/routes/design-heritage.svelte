@@ -265,7 +265,7 @@
 <!--style one-->
 <style>
     .subtitle{
-        font-size:3em;
+        font-size:2em;
         text-align:center;
         font-family: 'Architects Daughter', cursive;
         margin-bottom:4em;
@@ -275,11 +275,11 @@
         text-align:center;
         margin-top:4em;
         font-family: 'Architects Daughter', cursive;
-        font-size:4em;
+        font-size:2.6em;
     }
     
     .l-text{
-        font-size:3em;
+        font-size:2em;
         font-family: 'Architects Daughter', cursive;
         color:#252323;
     }
