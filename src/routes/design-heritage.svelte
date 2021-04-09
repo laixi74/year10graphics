@@ -275,7 +275,7 @@
         text-align:center;
         margin-top:4em;
         font-family: 'Architects Daughter', cursive;
-        font-size:2.6em;
+        font-size:2.9em;
     }
     
     .l-text{
