@@ -230,29 +230,29 @@
     <h3>Visual Communication</h3>
     <p class="subtitle">Assessment Tasks</p>
 <br>
-    <p>
+    
        <div class="large-text" >1. Perspective</div>
         
-        Use the box examples on this sheet and create on your own page.
+       <p> Use the box examples on this sheet and create on your own page.
          Start by putting in a line for the horizon and the VP’s then the
           front side of each box. Then take the sides back to the vanishing
            points. If you get stuck draw the example. Place boxes in all different 
-           locations and make them different sizes.
+           locations and make them different sizes.</p>
 
         <img class="img-box" src="image10.jpg" alt="Drawings of boxes from different perspective"/>
     
 
-    <p>
+    
         <div class="large-text" >2. Perspective Bird Houses</div>
         
-        Draw the bird houses. Add shadows and textures
+        <p>Draw the bird houses. Add shadows and textures</p>
         <img src="image8.jpg" alt="Bird House draws from different perspective" />
     
 
-    <p>
+
         <div class="large-text" >3. Scale</div>
         
-        explain or work out the following:
+        <p>explain or work out the following:</p>
 
 <div>
 <ol type="a">
@@ -266,12 +266,12 @@
 </div>
    <br> 
 
-    <p>
+    
         <div class="large-text" >4. Architectural Symbols</div>
 
-    Draw up a plan view of a room that will show the following. 
+   <p>Draw up a plan view of a room that will show the following. 
     Label each neatly in 3mm caps writing. You can adapt the drawing be
-    low or do your own. Think about colour and texture.
+    low or do your own. Think about colour and texture.</p>
     
 
     <ol type="a">
@@ -290,7 +290,7 @@
     <p>
         <div class="large-text" >5. Architectural Plans, & Elevations</div>
 <br>
-        Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.
+        <p>Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.</p>
 
         <ul>
             <li>You will be drawing at scale 1:50 for the elevations and floor plan.</li>
@@ -328,6 +328,12 @@
         font-size:2.5em;
         font-family: 'Architects Daughter', cursive;
         
+    }
+    ol, ul{
+        font-size:1.9em;
+    }
+    p{
+        font-size:1.9em;
     }
 </style>
 
