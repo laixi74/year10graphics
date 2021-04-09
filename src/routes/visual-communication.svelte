@@ -315,17 +315,17 @@
         font-family: 'Architects Daughter', cursive;
         color:#252323;
         margin-top:3em;
-        font-size:2.6em;
+        font-size:2.9em;
     }
     .subtitle{
-        font-size:2em;
+        font-size:2.7em;
         font-family: 'Architects Daughter', cursive;
         text-align:center;
     }
 
     .large-text{
         margin-bottom:5px;
-        font-size:2em;
+        font-size:2.5em;
         font-family: 'Architects Daughter', cursive;
         
     }

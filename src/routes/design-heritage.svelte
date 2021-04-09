@@ -265,7 +265,7 @@
 <!--style one-->
 <style>
     .subtitle{
-        font-size:2em;
+        font-size:2.7em;
         text-align:center;
         font-family: 'Architects Daughter', cursive;
         margin-bottom:4em;
@@ -273,15 +273,16 @@
     }
     h3{
         text-align:center;
-        margin-top:4em;
+        margin-top:3em;
         font-family: 'Architects Daughter', cursive;
         font-size:2.9em;
     }
     
     .l-text{
-        font-size:2em;
+        font-size:2.5em;
         font-family: 'Architects Daughter', cursive;
         color:#252323;
+        margin-bottom:5px;
     }
     .colour-t{
         color:#70798C;

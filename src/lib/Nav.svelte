@@ -51,8 +51,9 @@
         color:#70798C;
         font-family: 'Architects Daughter', cursive;
     }
-    a:hover{
+    nav a:hover{
         color:#F5F1ED;
-        background-color: #252323;
+        background-color: #70798C;
+        transition: 0.5s ease;
     }
 </style>
