@@ -9,7 +9,7 @@
 <!--style one-->
 <style>
     footer{
-        font-size:1.3em;
+        font-size:1.9em;
         font-family: 'Architects Daughter', cursive;
     }
 </style>

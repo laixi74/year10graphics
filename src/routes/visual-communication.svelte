@@ -311,16 +311,17 @@
 <!--style one-->
 <style>
     main{
-        font-size:1.2em;
+        font-size:1.9em;
     }
     h3{
         text-align:center;
         font-family: 'Architects Daughter', cursive;
         color:#252323;
+        font-size:2em;
     }
     .large-text{
         margin-bottom:5px;
-        font-size:1.4em;
+        font-size:2em;
         font-family: 'Architects Daughter', cursive;
         
     }

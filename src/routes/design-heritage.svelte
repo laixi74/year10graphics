@@ -120,10 +120,6 @@
 -->
 
 
-
-
-
-
 <!--mockup one-->
 <main class="content">
 <h3>Design Heritage</h3>
@@ -131,10 +127,10 @@
 <br>
 <div class="l-text">Homework Task</div>
 
-<p>
-<div class="l-text">SIZE: 1 x A3 Maximum</div>
-Pick one of the following Architects to create an A3 poster, read the assessment criteria:
 
+<div class="l-text">SIZE: 1 x A3 Maximum</div>
+<p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
+</p>
 
 <ul>
     <li>Mies Van der Rohe</li>
@@ -148,8 +144,8 @@ Pick one of the following Architects to create an A3 poster, read the assessment
 
 <p>
 <div class="l-text"> Creative Challenge... </div>
-Your presentation should reflect the style of the architect you have studied (shapes colours textures etc.).
-
+<p>Your presentation should reflect the style of the architect you have studied (shapes colours textures etc.).
+</p>
 <br>
 <br>
 <div class="l-text">Answer...</div>
@@ -271,25 +267,30 @@ Your presentation should reflect the style of the architect you have studied (sh
 
 <!--style one-->
 <style>
-    main{
-        font-size:1.2em;
-        
-    }
+    
     h3{
         text-align:center;
         margin-top:30px;
         margin-bottom:30px;
         font-family: 'Architects Daughter', cursive;
+        font-size:2em;
     }
+    
     .l-text{
-        font-size:1.2em;
+        font-size:3em;
         font-family: 'Architects Daughter', cursive;
         color:#252323;
     }
     .colour-t{
         color:#70798C;
+        font-size:1.9em;
     }
     p{
         font-family: 'Source Sans Pro', sans-serif;
+        font-size:1.9em;
     }
+    ul{
+        font-size:1.9em;
+    }
+
 </style>
