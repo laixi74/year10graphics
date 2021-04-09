@@ -4,9 +4,10 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
+<Nav />
 <Header />
 
-
+<!--mockup three
 <main class="content">
     <Nav />
 <div class="intro">
@@ -108,6 +109,10 @@
 <img src="image7.png" alt="Different view of a mockup design"/>
 <img src="image6.png" alt="Final production"/>
 </main>
+-->
+
+
+
 
 <!--second mockup
 <main class="content">
@@ -221,7 +226,7 @@
 </main>
 -->
 
-<!--first mockup
+<!--first mockup-->
 <main class="content">
     <h3>Assessment Tasks</h3>
 <br>
@@ -299,11 +304,11 @@
     <img src="image11.png" alt="Architectural plan of a house"/>
     <img class="img-mockup" src="image7.png" alt="Different views of a mockup design"/>
     <img class="img-final" src="image6.png" alt="Final production"/>
-</main>-->
+</main>
 
 <Footer />
 
-<!--style one
+<!--style one-->
 <style>
     main{
         font-size:1.2em;
@@ -320,7 +325,7 @@
         
     }
 </style>
--->
+
 
 
 <!--style two
@@ -392,6 +397,8 @@
 </style>
 -->
 
+
+<!--style three
 <style>
     /* LAYOUT */
     :global(Header) { grid-area: h; }
@@ -462,3 +469,4 @@
     font-size:1.7em;  
    }
 </style>
+-->

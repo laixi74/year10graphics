@@ -6,14 +6,14 @@
 </footer>
 
 
-<!--style one
+<!--style one-->
 <style>
     footer{
         font-size:1.3em;
         font-family: 'Architects Daughter', cursive;
     }
 </style>
--->
+
 
 <!--style two
 <style>
@@ -26,6 +26,7 @@
 </style>
 -->
 
+<!--style three
 <style>
 footer{
     font-family: 'Varela Round', sans-serif;
@@ -33,3 +34,4 @@ footer{
     color:#A09EBE;
 } 
 </style>
+-->

@@ -8,7 +8,7 @@
     </div>
 </nav>
 
-
+<!--style three
 <style>
     nav{
         font-family: 'Varela Round', sans-serif;
@@ -24,6 +24,10 @@
         color:rgb(81, 51, 119);
     }
 </style>
+-->
+
+
+
 <!--style two
 <style>
     nav{
@@ -40,7 +44,7 @@
 </style>
 -->
 
-<!--style one
+<!--style one-->
 <style>
     nav{
         font-size:1.3em;
@@ -52,4 +56,3 @@
         background-color: #252323;
     }
 </style>
--->

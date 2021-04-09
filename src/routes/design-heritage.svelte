@@ -4,10 +4,10 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
-
+<Nav />
 <Header />
 
-
+<!--mockup three
 <main class="content">
     <Nav />
 <div class="intro">
@@ -56,6 +56,10 @@
 </div>
 
 </main>
+-->
+
+
+
 <!--mockup two
 <main class="content">
 <h3>Design Heritage</h3>
@@ -120,7 +124,7 @@
 
 
 
-<!--mockup one
+<!--mockup one-->
 <main class="content">
 <h3>Design Heritage</h3>
 
@@ -166,9 +170,13 @@ Your presentation should reflect the style of the architect you have studied (sh
 
 <img src="image4.jpg" alt="Art and architecture:their link through the years"/>
 
-</main>-->
+</main>
 
 <Footer />
+
+
+
+<!--style three
 <style>
     img{
         margin-top:6em;
@@ -212,6 +220,11 @@ Your presentation should reflect the style of the architect you have studied (sh
         color:#A8AEC1;
     }
 </style>
+-->
+
+
+
+
 <!--style two
 <style>
     p{
@@ -256,7 +269,7 @@ Your presentation should reflect the style of the architect you have studied (sh
 
 
 
-<!--style one
+<!--style one-->
 <style>
     main{
         font-size:1.2em;
@@ -279,4 +292,4 @@ Your presentation should reflect the style of the architect you have studied (sh
     p{
         font-family: 'Source Sans Pro', sans-serif;
     }
-</style>-->
+</style>

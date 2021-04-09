@@ -5,7 +5,7 @@
     </div>
 </header>
 
-<!--style one
+<!--style one-->
 <style>
     p{
         font-size:4em;
@@ -18,7 +18,7 @@
         color:#70798C;
     }
 </style>
--->
+
 
 
 
@@ -37,7 +37,7 @@
 </style>
 -->
 
-
+<!--style three
 <style>
     p{
         font-family: 'Yatra One', cursive;
@@ -51,3 +51,4 @@
     }
 
 </style>
+-->

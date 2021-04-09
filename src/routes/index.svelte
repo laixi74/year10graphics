@@ -4,14 +4,17 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
+<Nav />
 <Header />
 
-
+<!--mockup three
 <main>
     <Nav />
     <img src="image12.jpg" alt="Drawing of a large Cabin Design"/>
     <img src="image2.png" alt="Cabin design example" /> 
 </main>
+-->
+
 <!--Mockup two
 <main>
     <div class="columns">
@@ -26,16 +29,16 @@
 </main>
 -->
 
-<!--mockup one
+<!--mockup one-->
 <main>
 <img src="image12.jpg" alt="Drawing of a large Cabin Design"/>
 <img src="image2.png" alt="Cabin design example" /> 
-</main>-->
+</main>
 
 <Footer />
 
 
-<!--style one
+<!--style one-->
 <style>
     /* LAYOUT */
     :global(Header) { grid-area: h; }
@@ -57,7 +60,7 @@
         width:100%;
     }
 </style>
--->
+
 
 
 <!--style two
