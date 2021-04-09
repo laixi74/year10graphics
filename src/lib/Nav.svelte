@@ -47,7 +47,7 @@
 <!--style one-->
 <style>
     nav{
-        font-size:2.4em;
+        font-size:2em;
         color:#70798C;
         font-family: 'Architects Daughter', cursive;
     }

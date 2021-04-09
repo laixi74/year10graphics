@@ -8,12 +8,12 @@
 <!--style one-->
 <style>
     p{
-        font-size:8em;
+        font-size:6em;
         font-family: 'Bebas Neue', cursive;
         color:#70798C;
     }
     h2{
-        font-size:5em;
+        font-size:4em;
         font-family: 'Architects Daughter', cursive;
         color:#70798C;
     }
