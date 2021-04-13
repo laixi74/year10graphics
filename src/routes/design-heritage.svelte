@@ -148,7 +148,7 @@
 <br>
 <br>
 <div class="l-text">Answer...</div>
-<div class="colour-t">What are the <u>key features</u> of their work?- aesthetic (looks) and functional (working)</div>
+<div class="colour-t">What are the <u>key features</u> of their work?- aesthetic (looks) and functional (working).</div>
 <ul>
     <li>Include examples of their work and a little notes</li>
 </ul>
