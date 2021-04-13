@@ -111,7 +111,6 @@
 </main>
 -->
 
-
 <!--second mockup
 <main class="content">
     <h3>Visual Communication</h3>
@@ -224,55 +223,57 @@
 </main>
 -->
 
-
 <!--first mockup-->
 <main class="content">
     <h3>Visual Communication</h3>
     <p class="subtitle">Assessment Tasks</p>
-<br>
-    
-       <div class="large-text" >1. Perspective</div>
-        
-       <p> Use the box examples on this sheet and create on your own page.
-         Start by putting in a line for the horizon and the VP’s then the
-          front side of each box. Then take the sides back to the vanishing
-           points. If you get stuck draw the example. Place boxes in all different 
-           locations and make them different sizes.</p>
+    <br />
 
-        <img class="img-box" src="image10.jpg" alt="Drawings of boxes from different perspective"/>
-    
+    <div class="large-text">1. Perspective</div>
 
-    
-        <div class="large-text" >2. Perspective Bird Houses</div>
-        
-        <p>Draw the bird houses. Add shadows and textures.</p>
-        <img src="image8.jpg" alt="Bird House draws from different perspective" />
-    
+    <p>
+        Use the box examples on this sheet and create on your own page. Start by
+        putting in a line for the horizon and the VP’s then the front side of
+        each box. Then take the sides back to the vanishing points. If you get
+        stuck draw the example. Place boxes in all different locations and make
+        them different sizes.
+    </p>
 
+    <img
+        class="img-box"
+        src="image10.jpg"
+        alt="Drawings of boxes from different perspective"
+    />
 
-        <div class="large-text" >3. Scale</div>
-        
-        <p>explain or work out the following:</p>
+    <div class="large-text">2. Perspective Bird Houses</div>
 
-<div>
-<ol type="a">
-    <li> What does 1:2 mean?</li>
-    <li>Using 1:1 what size would you draw 100mm at?</li>
-    <li>Using 1:20 what size would you draw 100mm at? </li>
-    <li>Using 1:50 what size would you draw 100mm at?</li>
-    <li>How do you work out scale? Explain this</li>
-    <li>What unit of measurement must all dimensions be in?</li>
-</ol>
-</div>
-   <br> 
-<br>
-    
-        <div class="large-text" >4. Architectural Symbols</div>
+    <p>Draw the bird houses. Add shadows and textures.</p>
+    <img src="image8.jpg" alt="Bird House draws from different perspective" />
 
-   <p>Draw up a plan view of a room that will show the following. 
-    Label each neatly in 3mm caps writing. You can adapt the drawing be
-    low or do your own. Think about colour and texture.</p>
-    
+    <div class="large-text">3. Scale</div>
+
+    <p>explain or work out the following:</p>
+
+    <div>
+        <ol type="a">
+            <li>What does 1:2 mean?</li>
+            <li>Using 1:1 what size would you draw 100mm at?</li>
+            <li>Using 1:20 what size would you draw 100mm at?</li>
+            <li>Using 1:50 what size would you draw 100mm at?</li>
+            <li>How do you work out scale? Explain this</li>
+            <li>What unit of measurement must all dimensions be in?</li>
+        </ol>
+    </div>
+    <br />
+    <br />
+
+    <div class="large-text">4. Architectural Symbols</div>
+
+    <p>
+        Draw up a plan view of a room that will show the following. Label each
+        neatly in 3mm caps writing. You can adapt the drawing be low or do your
+        own. Think about colour and texture.
+    </p>
 
     <ol type="a">
         <li>Double doors</li>
@@ -285,61 +286,46 @@
         <li>Wooden flooring</li>
     </ol>
 
-    <img src="image9.jpg" alt="Example of a  drawing of a house using architectural symbols"/>
+    <img
+        src="image9.jpg"
+        alt="Example of a  drawing of a house using architectural symbols"
+    />
 
+    <p />
+    <div class="large-text">5. Architectural Plans, & Elevations</div>
+    <br />
     <p>
-        <div class="large-text" >5. Architectural Plans, & Elevations</div>
-<br>
-        <p>Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.</p>
+        Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective
+        of the cabin.
+    </p>
 
-        <ul>
-            <li>You will be drawing at scale 1:50 for the elevations and floor plan.</li>
-            <li>Add the wall thickness (walls are 100mm so will be drawn as 2mm thick).</li>
-            <li>Use the diagrams below to work out the correct measurements at scale 1:50.</li>
-            <li>Once you have completed the plan view (floor plan)
-                 complete the 3 elevations and then move onto a perspective sketch.</li>
-        </ul>
+    <ul>
+        <li>
+            You will be drawing at scale 1:50 for the elevations and floor plan.
+        </li>
+        <li>
+            Add the wall thickness (walls are 100mm so will be drawn as 2mm
+            thick).
+        </li>
+        <li>
+            Use the diagrams below to work out the correct measurements at scale
+            1:50.
+        </li>
+        <li>
+            Once you have completed the plan view (floor plan) complete the 3
+            elevations and then move onto a perspective sketch.
+        </li>
+    </ul>
 
-        
-    <img src="image11.png" alt="Architectural plan of a house"/>
-    <img class="img-mockup" src="image7.png" alt="Different views of a mockup design"/>
-    <img class="img-final" src="image6.png" alt="Final production"/>
+    <img src="image11.png" alt="Architectural plan of a house" />
+    <img
+        class="img-mockup"
+        src="image7.png"
+        alt="Different views of a mockup design"
+    />
+    <img class="img-final" src="image6.png" alt="Final production" />
 </main>
 <Footer />
-
-<!--style one-->
-<style>
-   
-    h3{
-        text-align:center;
-        font-family: 'Architects Daughter', cursive;
-        color:#252323;
-        margin-top:3em;
-        font-size:2.9em;
-    }
-    .subtitle{
-        font-size:2.7em;
-        font-family: 'Architects Daughter', cursive;
-        text-align:center;
-       
-    }
-
-    .large-text{
-        margin-bottom:5px;
-        font-size:2.5em;
-        font-family: 'Architects Daughter', cursive;
-        color:#252323;
-    }
-    ol, ul{
-        font-size:1.9em;
-    }
-    p{
-        font-size:1.9em;
-    }
-    div{
-        margin-top:3em;
-    }
-</style>
 
 
 
@@ -411,7 +397,6 @@
    }
 </style>
 -->
-
 
 <!--style three
 <style>
@@ -485,3 +470,36 @@
    }
 </style>
 -->
+
+<!--style one-->
+<style>
+    h3 {
+        text-align: center;
+        font-family: "Architects Daughter", cursive;
+        color: #252323;
+        margin-top: 3em;
+        font-size: 2.9em;
+    }
+    .subtitle {
+        font-size: 2.7em;
+        font-family: "Architects Daughter", cursive;
+        text-align: center;
+    }
+
+    .large-text {
+        margin-bottom: 5px;
+        font-size: 2.5em;
+        font-family: "Architects Daughter", cursive;
+        color: #252323;
+    }
+    ol,
+    ul {
+        font-size: 1.9em;
+    }
+    p {
+        font-size: 1.9em;
+    }
+    div {
+        margin-top: 3em;
+    }
+</style>

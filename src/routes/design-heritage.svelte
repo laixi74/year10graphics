@@ -58,8 +58,6 @@
 </main>
 -->
 
-
-
 <!--mockup two
 <main class="content">
 <h3>Design Heritage</h3>
@@ -119,57 +117,68 @@
 </main>
 -->
 
-
 <!--mockup one-->
 <main class="content">
-<h3>Design Heritage</h3>
-<p class="subtitle">Homework Task</p>
-<br><br><br><br><br><br>
-<div class="l-text">SIZE: 1 x A3 Maximum</div>
+    <h3>Design Heritage</h3>
+    <p class="subtitle">Homework Task</p>
+    <br /><br /><br /><br /><br /><br />
+    <div class="l-text">SIZE: 1 x A3 Maximum</div>
 
+    <p>
+        Pick one of the following Architects to create an A3 poster, read the
+        assessment criteria:
+    </p>
 
-<p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
-    </p>   
+    <ul>
+        <li>Mies Van der Rohe</li>
+        <li>Zaha Hadid</li>
+        <li>Frank Gehery</li>
+        <li>Le Cobuisier</li>
+        <li>Frank Lloyd Wright</li>
+        <li>Daniel Libeskind</li>
+    </ul>
+    <br />
 
-<ul>
-    <li>Mies Van der Rohe</li>
-    <li>Zaha Hadid</li>
-    <li>Frank Gehery</li>
-    <li>Le Cobuisier</li>
-    <li>Frank Lloyd Wright</li>
-    <li>Daniel Libeskind</li>
-</ul>
-<br>
+    <p />
+    <div class="l-text">Creative Challenge...</div>
+    <p>
+        Your presentation should reflect the style of the architect you have
+        studied (shapes colours textures etc.).
+    </p>
+    <br />
+    <br />
+    <div class="l-text">Answer...</div>
+    <div class="colour-t">
+        What are the <u>key features</u> of their work?- aesthetic (looks) and functional
+        (working).
+    </div>
+    <ul>
+        <li>Include examples of their work and a little notes</li>
+    </ul>
+    <br />
 
-<p>
-<div class="l-text"> Creative Challenge... </div>
-<p>Your presentation should reflect the style of the architect you have studied (shapes colours textures etc.).
-</p>
-<br>
-<br>
-<div class="l-text">Answer...</div>
-<div class="colour-t">What are the <u>key features</u> of their work?- aesthetic (looks) and functional (working).</div>
-<ul>
-    <li>Include examples of their work and a little notes</li>
-</ul>
-<br>
+    <div class="colour-t">
+        What <u>context</u> do they work within?- what cultural/historical/society
+        or technological things influence their work?
+    </div>
+    <ul>
+        <li>
+            Do they have a design philosophy?- what do they try and do or think
+            about design
+        </li>
+        <li>How long have they been designing?</li>
+        <li>What are the main materials their buildings are made from?</li>
+        <li>Are there any interesting facts you have found about them?</li>
+        <li>Include a quote that they have said</li>
+    </ul>
 
-<div class="colour-t">What <u>context</u> do they work within?- what cultural/historical/society or technological things influence their work?</div>
-<ul>
-    <li>Do they have a design philosophy?- what do they try and do or think about design</li>
-    <li>How long have they been designing?</li>
-    <li>What are the main materials their buildings are made from?</li>
-    <li>Are there any interesting facts you have found about them?</li>
-    <li>Include a quote that they have said</li>
-</ul>
-
-<img src="image4.jpg" alt="Art and architecture:their link through the years"/>
-
+    <img
+        src="image4.jpg"
+        alt="Art and architecture:their link through the years"
+    />
 </main>
 
 <Footer />
-
-
 
 <!--style three
 <style>
@@ -217,9 +226,6 @@
 </style>
 -->
 
-
-
-
 <!--style two
 <style>
     p{
@@ -261,41 +267,36 @@
 </style>
 -->
 
-
-
-
 <!--style one-->
 <style>
-    .subtitle{
-        font-size:2.7em;
-        text-align:center;
-        font-family: 'Architects Daughter', cursive;
+    .subtitle {
+        font-size: 2.7em;
+        text-align: center;
+        font-family: "Architects Daughter", cursive;
         margin-bottom: 3em;
     }
-    h3{
-        text-align:center;
-        margin-top:3em;
-        font-family: 'Architects Daughter', cursive;
-        font-size:2.9em;
-    }
-    
-    .l-text{
-        font-size:2.5em;
-        font-family: 'Architects Daughter', cursive;
-        color:#252323;
-        margin-bottom:5px;
-       
-    }
-    .colour-t{
-        color:#70798C;
-        font-size:1.9em;
-    }
-    p{
-        font-family: 'Source Sans Pro', sans-serif;
-        font-size:1.9em;
-    }
-    ul{
-        font-size:1.9em;
+    h3 {
+        text-align: center;
+        margin-top: 3em;
+        font-family: "Architects Daughter", cursive;
+        font-size: 2.9em;
     }
 
+    .l-text {
+        font-size: 2.5em;
+        font-family: "Architects Daughter", cursive;
+        color: #252323;
+        margin-bottom: 5px;
+    }
+    .colour-t {
+        color: #70798c;
+        font-size: 1.9em;
+    }
+    p {
+        font-family: "Source Sans Pro", sans-serif;
+        font-size: 1.9em;
+    }
+    ul {
+        font-size: 1.9em;
+    }
 </style>

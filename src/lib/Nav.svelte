@@ -3,8 +3,10 @@
         <a class="navbar-item" href=".">Home</a>
     </div>
     <div class="navbar-menu">
-    <a class="navbar-item" href="design-heritage">Design Heritage</a>
-    <a class="navbar-item" href="visual-communication">Visual Communication</a>
+        <a class="navbar-item" href="design-heritage">Design Heritage</a>
+        <a class="navbar-item" href="visual-communication"
+            >Visual Communication</a
+        >
     </div>
 </nav>
 
@@ -26,8 +28,6 @@
 </style>
 -->
 
-
-
 <!--style two
 <style>
     nav{
@@ -46,14 +46,14 @@
 
 <!--style one-->
 <style>
-    nav{
-        font-size:2em;
-        color:#70798C;
-        font-family: 'Architects Daughter', cursive;
+    nav {
+        font-size: 2em;
+        color: #70798c;
+        font-family: "Architects Daughter", cursive;
     }
-    nav a:hover{
-        color:#F5F1ED;
-        background-color: #70798C;
+    nav a:hover {
+        color: #f5f1ed;
+        background-color: #70798c;
         transition: 0.5s ease;
     }
 </style>

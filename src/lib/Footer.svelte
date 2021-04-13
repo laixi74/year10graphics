@@ -1,18 +1,10 @@
 <footer class="footer">
     <div class="content has-text-centered">
-    <p>&copy; Xinyu Lai 2021</p>
-    <p>Photo Credits: Katy Whelan</p>
+        <p>&copy; Xinyu Lai 2021</p>
+        <p>Photo Credits: Katy Whelan</p>
     </div>
 </footer>
 
-
-<!--style one-->
-<style>
-    footer{
-        font-size:1.9em;
-        font-family: 'Architects Daughter', cursive;
-    }
-</style>
 
 
 <!--style two
@@ -35,3 +27,11 @@ footer{
 } 
 </style>
 -->
+
+<!--style one-->
+<style>
+    footer {
+        font-size: 1.9em;
+        font-family: "Architects Daughter", cursive;
+    }
+</style>
