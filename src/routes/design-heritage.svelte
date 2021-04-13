@@ -126,8 +126,14 @@
 <p class="subtitle">Homework Task</p>
 <br><br><br><br><br><br>
 <div class="l-text">SIZE: 1 x A3 Maximum</div>
-<p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
-</p>
+
+
+
+<label class="checkbox">
+    <input type="checkbox"><p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
+    </p>
+</label>
+   
 
 <ul>
     <li>Mies Van der Rohe</li>
