@@ -128,12 +128,8 @@
 <div class="l-text">SIZE: 1 x A3 Maximum</div>
 
 
-
-<label class="checkbox">
-    <input type="checkbox"><p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
-    </p>
-</label>
-   
+<p>Pick one of the following Architects to create an A3 poster, read the assessment criteria:
+    </p>   
 
 <ul>
     <li>Mies Van der Rohe</li>
