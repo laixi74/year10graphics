@@ -295,25 +295,25 @@
     <div class="large-text">5. Architectural Plans, & Elevations</div>
     <br />
     <p>
-        Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective
+        Draw an accurate to scale 1x floor plan, 3 elevations and 1x perspective
         of the cabin.
     </p>
 
     <ul>
         <li>
-            You will be drawing at scale 1:50 for the elevations and floor plan.
+            You will be drawing at scale 1:50 for the elevations and floor plan
         </li>
         <li>
             Add the wall thickness (walls are 100mm so will be drawn as 2mm
-            thick).
+            thick)
         </li>
         <li>
             Use the diagrams below to work out the correct measurements at scale
-            1:50.
+            1:50
         </li>
         <li>
             Once you have completed the plan view (floor plan) complete the 3
-            elevations and then move onto a perspective sketch.
+            elevations and then move onto a perspective sketch
         </li>
     </ul>
 
